@@ -1,8 +1,8 @@
-# Decode Age – Data Intelligence Intern Assessment
+# Data Intelligence project
 
 ## Overview
 
-This project is a Python-based lead intelligence pipeline developed for the Decode Age Data Intelligence Intern assessment.
+This project is a Python-based lead intelligence pipeline.
 
 The pipeline starts with a list of companies provided in `seed_companies.csv` and automatically collects publicly available information from their websites. It validates the input data, checks website accessibility, extracts business information, qualifies potential leads using evidence-based scoring, removes duplicates, and exports structured datasets for business review.
 
